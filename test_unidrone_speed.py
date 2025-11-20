@@ -21,7 +21,7 @@ VERBOSE_ULTRA = False     # turn off Ultralytics logging for speed
 
 # -------------------- CONFIG --------------------
 
-video_path = "Carsdriving-night.mp4"
+video_path = "Carsdriving-night.mp4"    #Change to any video you want to upload
 
 # Get the FPS of the input video (for speed calculation)
 cap = cv2.VideoCapture(video_path)

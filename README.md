@@ -1,4 +1,4 @@
-# Polaris: Real-Time Object Detection System
+# Polaris 1.0: Real-Time Object Detection System
 
 A high-performance, real-time object detection and tracking system built using Ultralytics YOLO, OpenCV, and Python. The system is designed to process live video streams with low latency while maintaining reliable detection accuracy.
 
